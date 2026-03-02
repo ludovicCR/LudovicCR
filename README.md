@@ -1,4 +1,3 @@
-[GitHub_Profile_README.md](https://github.com/user-attachments/files/25682178/GitHub_Profile_README.md)
 # Bonjour, je suis Ludovic Crousse 👋
 
 🎯 **Data Analyst Junior** basé à **Bruxelles, Belgique**  
