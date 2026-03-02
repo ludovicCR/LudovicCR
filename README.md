@@ -1,8 +1,8 @@
-# Bonjour, je suis Ludovic Crousse 👋
+# Hi, I'm Ludovic Crousse 👋
 
-🎯 **Data Analyst Junior** basé à **Bruxelles, Belgique**  
-🎓 Formé à **MolenGeek** (2024) — Python, Machine Learning, Data Science  
-🔁 En reconversion depuis la pâtisserie vers la data — curieux, déterminé, orienté solutions
+🎯 **Junior Data Analyst** based in **Brussels, Belgium**  
+🎓 Trained at **MolenGeek** (2024) — Python, Machine Learning, Data Science  
+🔁 Career changer from pastry chef to data analyst — curious, determined, solution-oriented
 
 ---
 
@@ -17,17 +17,17 @@
 
 ---
 
-## 🚀 Projets phares
+## 🚀 Featured Projects
 
-| Projet | Description | Technologies |
-|--------|-------------|-------------|
-| [🏦 Churn Rate](https://github.com/ludovicCR/Churn_Rate) | Prédiction de fermeture de comptes bancaires | Random Forest, Sklearn, Pandas |
-| [🏠 Property Price Prediction](https://github.com/ludovicCR/Projet_HealingCode) | Estimation des prix immobiliers en Belgique | ML, Numpy, Seaborn |
-| [💬 Sentiment Analysis](https://github.com/ludovicCR/Project_sentiment) | Analyse de sentiments d'avis restaurants | NLP, NLTK, Deep Learning |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🏦 Churn Rate Prediction](https://github.com/ludovicCR/Churn_Rate) | Predicting bank account closures using ML | Random Forest, Sklearn, Pandas |
+| [🏠 Property Price Prediction](https://github.com/ludovicCR/Projet_HealingCode) | Estimating real estate prices in Belgium | ML, Numpy, Seaborn |
+| [💬 Sentiment Analysis](https://github.com/ludovicCR/Project_sentiment) | Sentiment analysis on restaurant reviews | NLP, NLTK, Deep Learning |
 
 ---
 
-## 📚 Formation
+## 📚 Education
 
 - 🧠 **MolenGeek** — Data Analyst & AI Training (2024)
 - 🎨 **Haute École Albert Jacquard** — Graphic Design & 3D (2019-2020)
@@ -35,11 +35,11 @@
 
 ---
 
-## 🤝 Me contacter
+## 🤝 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludovic-crousse)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ludovic.crousse@gmail.com)
 
 ---
 
-> *"Ancien pâtissier reconverti en data analyst — j'applique la même rigueur et créativité à la data qu'en cuisine."* 🍰📊
+> *"Former pastry chef turned data analyst — applying the same precision and creativity to data as I once did in the kitchen."* 🍰📊
